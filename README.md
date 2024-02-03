@@ -24,17 +24,19 @@ A new Flutter project.
 
 ## Themese:
 ## Dark Mode Example 
-![Alt Text](./assets/dark1.png)
+<img src="./assets/dark1.png" alt="Alt Text" width="300" height="200">
+
 <br/>
-![Alt Text](./assets/dark2.png)
+<img src="./assets/dark2.png" alt="Alt Text" width="300" height="200">
+
 <br/>
-![Alt Text](./assets/dark3.png)
+<img src="./assets/dark3.png" alt="Alt Text" width="300" height="200">
 
 
 ## Light Mode App Screenshot Sample
 - Light Theme
-  ![Alt Text](./assets/light.png)
-- <br/>
-  ![Alt Text](./assets/light2.png)
+  <img src="./assets/light.png" alt="Alt Text" width="300" height="200">
   <br/>
-  ![Alt Text](./assets/light3.png)
+  <img src="./assets/light2.png" alt="Alt Text" width="300" height="200">
+  <br/>
+  <img src="./assets/light3.png" alt="Alt Text" width="300" height="200">
