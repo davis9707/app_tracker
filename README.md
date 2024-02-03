@@ -1,6 +1,7 @@
-# expense_tracker
+# Expense_tracker Project
+## Self Project Using Dart and Flutter 
 
-A new Flutter project.
+A new Flutter project by Davis.
 
 ## List of Components
 - Expenses List
@@ -19,10 +20,11 @@ A new Flutter project.
 - Dismissable Widget for the list
 - Snackbar
 - ModalBottomShee
-- Themese for the App
+- Themes for the App
 
 
-## Themese:
+## Themes  Dark and Light Mode Themes Used:
+
 ## Dark Mode Example 
 <img src="./assets/dark1.png" alt="Alt Text" width="400" height="500">
 
@@ -40,3 +42,5 @@ A new Flutter project.
   <img src="./assets/light2.png" alt="Alt Text" width="400" height="500">
   <br/>
   <img src="./assets/light3.png" alt="Alt Text" width="400" height="500">
+
+  
