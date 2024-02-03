@@ -26,21 +26,21 @@ A new Flutter project by Davis.
 ## Themes  Dark and Light Mode Themes Used:
 
 ## Dark Mode Example 
-<img src="./assets/dark1.png" alt="Alt Text" width="250" height="500">
+<img src="./assets/dark1.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
 
 <br/>
-<img src="./assets/dark2.png" alt="Alt Text" width="250" height="500">
+<img src="./assets/dark2.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
 
 <br/>
-<img src="./assets/dark3.png" alt="Alt Text" width="250" height="500">
+<img src="./assets/dark3.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
 
 
 ## Light Mode App Screenshot Sample
 - Light Theme
-  <img src="./assets/light.png" alt="Alt Text" width="250" height="500">
+  <img src="./assets/light.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
   <br/>
-  <img src="./assets/light2.png" alt="Alt Text" width="250" height="500">
-  <br/>
-  <img src="./assets/light3.png" alt="Alt Text" width="250" height="500">
+  <img src="./assets/light2.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
+  <br>
+  <img src="./assets/light3.png" alt="Alt Text" width="250" height="500" style="border: 1px solid black">
 
   
