@@ -36,11 +36,13 @@ A new Flutter project by Davis.
 
 
 ## Light Mode App Screenshot Sample
-- Light Theme
+## Light Theme
   <img src="./assets/light.png" alt="Alt Text" width="250" height="500" style="border: 2px solid black">
   <br/>
+## Light Mode Example 2
   <img src="./assets/light2.png" alt="Alt Text" width="250" height="500" style="border: 2px solid black">
   <br>
+## Light Mode Example 3
   <img src="./assets/light3.png" alt="Alt Text" width="250" height="500" style="border: 2px solid black">
 
   
