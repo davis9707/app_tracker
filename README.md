@@ -29,8 +29,10 @@ A new Flutter project.
 ![Simulator Screenshot - iPhone 15 - 2024-02-03 at 13.55.40.png](..%2F..%2F..%2FSimulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-03%20at%2013.55.40.png)
 <br/>
 ![Simulator Screenshot - iPhone 15 - 2024-02-03 at 13.56.12.png](..%2F..%2F..%2FSimulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-03%20at%2013.56.12.png)
-## Light Mode App Screenshot Sample
 
+## Light Mode App Screenshot Sample
+- Light Theme
 ![Simulator Screenshot - iPhone 15 - 2024-02-03 at 13.56.28.png](..%2F..%2F..%2FSimulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-03%20at%2013.56.28.png)
+
 ![Simulator Screenshot - iPhone 15 - 2024-02-03 at 13.56.31.png](..%2F..%2F..%2FSimulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-03%20at%2013.56.31.png)
 ![Simulator Screenshot - iPhone 15 - 2024-02-03 at 13.56.37.png](..%2F..%2F..%2FSimulator%20Screenshot%20-%20iPhone%2015%20-%202024-02-03%20at%2013.56.37.png)
