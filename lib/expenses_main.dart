@@ -75,25 +75,24 @@ class _ExpensesState extends State<Expenses> {
       );
     }
     return Scaffold(
-      appBar: AppBar(
-        actions: [
-          IconButton(onPressed: _openAddExpenseOverlay, icon: Icon(Icons.add))
-        ],
-        title: Text('Expenses Tracker'),
-      ),
-      body: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: <Widget>[
-          Padding(
-            padding: const EdgeInsets.all(10.0),
-            child: Text(
-              'The Expenses List',
-              style: Theme.of(context).textTheme.titleLarge,
+        appBar: AppBar(
+          actions: [
+            IconButton(onPressed: _openAddExpenseOverlay, icon: Icon(Icons.add))
+          ],
+          title: Text('Expenses Tracker'),
+        ),
+        body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Padding(
+              padding: const EdgeInsets.all(10.0),
+              child: Text(
+                'The Expenses List',
+                style: Theme.of(context).textTheme.titleLarge,
+              ),
             ),
-          ),
-          Expanded(child: mainContent)
-        ],
-      ),
-    );
+            Expanded(child: mainContent)
+          ],
+        ));
   }
 }
